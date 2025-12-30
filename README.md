@@ -19,16 +19,11 @@ The system listens to long personal stories, extracts causal conflicts, maps the
 ## Architecture
 
 User Story  
-   |
-Chunking LLM (causal problem extraction)  
-   |
-Vector Database (Bhagavad Gita)  
-   |
-LLM-1 (Krishna–Arjuna conversation + user mapping)  
-   |
-LLM-2 (decision framing)  
-   |
-LLM-3 (final structured neutral output with sloka references)
+→ Chunking LLM (causal problem extraction)  
+→ Vector Database (Bhagavad Gita)  
+→ LLM-1 (Krishna–Arjuna conversation + user mapping)  
+→ LLM-2 (decision framing)  
+→ LLM-3 (final structured neutral output with sloka references)
 
 ---
 

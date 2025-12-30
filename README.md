@@ -1,4 +1,4 @@
-# Talk to Sri Krishna
+# Pratibimb (Reflection of BhagavathGita through AI)
 
 Talk to Krishna is a narrative-based AI system that frames human dilemmas using the Bhagavad Gita as contextual grounding — without advice, prescriptions, or religious authority.
 
